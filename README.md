@@ -33,11 +33,11 @@ pip install requests
 
 ## ▶️ Запуск
 
-1. Сохраните код в файл, например `qwen_client.py`.
+1. Сохраните код в файл, например `qwen.py`.
 2. Запустите:
 
 ```bash
-python qwen_client.py
+python qwen.py
 ```
 
 Скрипт автоматически отправит тестовый запрос:  
